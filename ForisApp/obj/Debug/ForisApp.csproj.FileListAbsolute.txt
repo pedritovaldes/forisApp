@@ -1,0 +1,9 @@
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\bin\Debug\ForisApp.exe.config
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\bin\Debug\ForisApp.exe
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\bin\Debug\ForisApp.pdb
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\obj\Debug\ForisApp.csprojResolveAssemblyReference.cache
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\obj\Debug\ForisApp.Form1.resources
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\obj\Debug\ForisApp.Properties.Resources.resources
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\obj\Debug\ForisApp.csproj.GenerateResource.Cache
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\obj\Debug\ForisApp.exe
+C:\Users\espgom\documents\visual studio 2017\Projects\ForisApp\ForisApp\obj\Debug\ForisApp.pdb
